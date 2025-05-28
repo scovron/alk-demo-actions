@@ -14,7 +14,8 @@ jobs:
           uname -a
           pwd
           ls -la
-          
+    
+        
       - name: Hello GitHub Actions
         run: echo "Hello GitHub Actions!"
         
